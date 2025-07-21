@@ -1,4 +1,4 @@
-# 🛡 Windows Threat Hunter
+# Windows Threat Hunter
 ![PowerShell](https://img.shields.io/badge/script-powershell-blue)
 ![Sysmon](https://img.shields.io/badge/tool-sysmon-red)
 ![MITRE ATT&CK](https://img.shields.io/badge/mapping-mitre-orange)
@@ -9,13 +9,13 @@ This blue team simulation demonstrates how adversaries abuse PowerShell, perform
 
 ---
 
-## 📌 Why I Made This
+## Why I Made This
 
 This project was created as part of my research into attack detection tools commonly used in the industry. My goal was to simulate attacker-like behaviour based on a **real-world ransomware case (REvil)**, extract logs with **custom scripting**, map detections to the **MITRE ATT&CK framework**, and demonstrate everything visually in **Power BI**.
 
 ---
 
-## 📖 Real-World Case Study: The JBS Ransomware Attack
+## Real-World Case Study: The JBS Ransomware Attack
 
 In May 2021, the world's largest meat supplier, **JBS**, was targeted by the REvil ransomware group. The attack disrupted meat production across North America and Australia, leading to an $11 million ransom payout. It involved:
 - Use of credential access tools and remote payload delivery
@@ -26,7 +26,7 @@ In May 2021, the world's largest meat supplier, **JBS**, was targeted by the REv
 
 ---
 
-## 🧠 MITRE ATT&CK Mapping
+## MITRE ATT&CK Mapping
 
 | PowerShell Command | Technique | MITRE ID | Tactic |
 |--------------------|-----------|----------|--------|
@@ -36,17 +36,17 @@ In May 2021, the world's largest meat supplier, **JBS**, was targeted by the REv
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
-- 🧩 **Sysmon** – Logs process creation, network, and file events  
-- 🐍 **PowerShell** – Scripting to parse and export logs  
-- 📊 **Power BI** – Dashboard visualisation of IOC activity  
-- 💾 **Visual Studio Code** – Script and site editing  
-- 🌐 **GitHub Pages** – Deployed as a public demo site
+- **Sysmon** – Logs process creation, network, and file events  
+- **PowerShell** – Scripting to parse and export logs  
+- **Power BI** – Dashboard visualisation of IOC activity  
+- **Visual Studio Code** – Script and site editing  
+- **GitHub Pages** – Deployed as a public demo site
 
 ---
 
-## 🏗 Project Structure
+## Project Structure
 
 windows-threat-hunter/
 
